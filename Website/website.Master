@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="website.master.cs" Inherits="Website.website" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <link href="StyleSheet.css" rel="stylesheet" />
+    <link href="js/flexslider.css" rel="stylesheet" />
+    <!-- Esse arquivo ser vcolocado antes do flexslider -->
+    <script src="js/jquery-1.7.2.min.js"></script>
+    <script src="js/flexslider.min.js"></script>
+
+</head>
+<body>
+	<form id="form1" runat="server">
+
+		<!-- CABEÇALHO -->
+		<div class="cabecalho">
+			<!-- LOGOMARCA-->
+			<div class="logomarca">
+				<a href="default.aspx"><img src="images/logo.png" /></a>
+			</div>
+			<!-- MENU -->
+			<div class="menu">
+				<asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/default.aspx">Home</asp:HyperLink>
+
+				<asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/sobre.aspx">Sobre nós</asp:HyperLink>
+
+                <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/DicasSI.aspx">Conceitos</asp:HyperLink>
+
+                <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/Servicos.aspx">Serviços</asp:HyperLink>
+
+                <asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="~/Noticias.aspx">Notícias</asp:HyperLink>
+
+                <asp:HyperLink ID="HyperLink7" runat="server" NavigateUrl="~/Parceiros.aspx">Parceiros</asp:HyperLink>
+
+                <asp:HyperLink ID="HyperLink8" runat="server" NavigateUrl="~/Clientes.aspx">Clientes</asp:HyperLink>
+
+                <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Contato.aspx">Fale Conosco</asp:HyperLink>
+
+                <asp:HyperLink ID="HyperLink9" runat="server" NavigateUrl="~/Computadores.aspx">Computadores</asp:HyperLink>
+
+                <asp:HyperLink ID="HyperLink10" runat="server" NavigateUrl="~/Monitor.aspx">Monitor</asp:HyperLink>
+			</div>
+		</div>
+
+		<!-- ÁREA DO CONTEUDO -->
+		<div class="conteudo">
+		    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+		</div>
+
+		<!-- RODAPÉ -->
+		<div class="rodape">
+			<p>Copyright © 2018</p>
+            <p>L&L Consultoria em TI</p>
+		</div>
+	</form>
+</body>
+</html>

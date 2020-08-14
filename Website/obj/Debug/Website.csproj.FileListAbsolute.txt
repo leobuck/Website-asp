@@ -1,0 +1,466 @@
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\Website.dll.config
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\Website.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\Website.pdb
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\csc.exe
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\csc.rsp
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\csi.exe
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\csi.rsp
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\vbc.exe
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\obj\Debug\Website.csprojAssemblyReference.cache
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\obj\Debug\Website.csproj.CopyComplete
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\obj\Debug\Website.dll
+C:\Users\Usuario\Google Drive\Fatec\AULAS\2018-2\SI\Noite\Website\Website\obj\Debug\Website.pdb
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\Website.dll.config
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\Website.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\Website.pdb
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\csc.exe
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\csc.exe.config
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\csc.rsp
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\csi.exe
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\csi.exe.config
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\csi.rsp
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.AppContext.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Console.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\vbc.exe
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\vbc.exe.config
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\vbc.rsp
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\obj\Debug\Website.dll
+C:\Users\TEMP.FATEC.013\Documents\Website\Website\obj\Debug\Website.pdb
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\Website.dll.config
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\Website.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\Website.pdb
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\csc.exe
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\csc.exe.config
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\csc.rsp
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\csi.exe
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\csi.exe.config
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\csi.rsp
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.AppContext.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Console.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\vbc.exe
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\vbc.exe.config
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\vbc.rsp
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\obj\Debug\Website.dll
+C:\Users\TEMP.FATEC.015\Documents\Website\Website\obj\Debug\Website.pdb
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\Website.dll.config
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\Website.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\Website.pdb
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\csc.exe
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\csc.exe.config
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\csc.rsp
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\csi.exe
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\csi.exe.config
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\csi.rsp
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.AppContext.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Console.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\vbc.exe
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\vbc.exe.config
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\vbc.rsp
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\obj\Debug\Website.dll
+C:\Users\TEMP.FATEC.016\Documents\Website\Website\obj\Debug\Website.pdb
+C:\Users\TEMP\Documents\Website\Website\bin\Website.dll.config
+C:\Users\TEMP\Documents\Website\Website\bin\Website.dll
+C:\Users\TEMP\Documents\Website\Website\bin\Website.pdb
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\csc.exe
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\csc.exe.config
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\csc.rsp
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\csi.exe
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\csi.exe.config
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\csi.rsp
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.AppContext.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Console.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\vbc.exe
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\vbc.exe.config
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\vbc.rsp
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\TEMP\Documents\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TEMP\Documents\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TEMP\Documents\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TEMP\Documents\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Documents\Website\Website\obj\Debug\Website.dll
+C:\Users\TEMP\Documents\Website\Website\obj\Debug\Website.pdb
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\Website.dll.config
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\Website.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\Website.pdb
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\csc.exe
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\csc.exe.config
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\csc.rsp
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\csi.exe
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\csi.exe.config
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\csi.rsp
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.AppContext.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Console.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\vbc.exe
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\vbc.exe.config
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\vbc.rsp
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\AppDatabase.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\MySql.Data.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\AppDatabase.pdb
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\AppDatabase.xml
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\obj\Debug\Website.dll
+C:\Users\TEMP.FATEC.000\Documents\Website\Website\obj\Debug\Website.pdb
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\Website.dll.config
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\Website.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\Website.pdb
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\csc.exe
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\csc.exe.config
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\csc.rsp
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\csi.exe
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\csi.exe.config
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\csi.rsp
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.AppContext.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Console.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\vbc.exe
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\vbc.exe.config
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\vbc.rsp
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\AppDatabase.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\MySql.Data.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\AppDatabase.pdb
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\AppDatabase.xml
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\obj\Debug\Website.dll
+C:\Users\TEMP.FATEC.001\Documents\Website\Website\obj\Debug\Website.pdb
+E:\Website\Website\bin\Website.dll.config
+E:\Website\Website\bin\Website.dll
+E:\Website\Website\bin\Website.pdb
+E:\Website\Website\bin\roslyn\csc.exe
+E:\Website\Website\bin\roslyn\csc.exe.config
+E:\Website\Website\bin\roslyn\csc.rsp
+E:\Website\Website\bin\roslyn\csi.exe
+E:\Website\Website\bin\roslyn\csi.exe.config
+E:\Website\Website\bin\roslyn\csi.rsp
+E:\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Website\Website\bin\roslyn\System.AppContext.dll
+E:\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+E:\Website\Website\bin\roslyn\System.Console.dll
+E:\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Website\Website\bin\roslyn\System.Diagnostics.Process.dll
+E:\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Website\Website\bin\roslyn\System.IO.Compression.dll
+E:\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+E:\Website\Website\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Website\Website\bin\roslyn\System.IO.Pipes.dll
+E:\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+E:\Website\Website\bin\roslyn\System.Security.AccessControl.dll
+E:\Website\Website\bin\roslyn\System.Security.Claims.dll
+E:\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Website\Website\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Website\Website\bin\roslyn\System.Threading.Thread.dll
+E:\Website\Website\bin\roslyn\System.ValueTuple.dll
+E:\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Website\Website\bin\roslyn\System.Xml.XPath.dll
+E:\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Website\Website\bin\roslyn\vbc.exe
+E:\Website\Website\bin\roslyn\vbc.exe.config
+E:\Website\Website\bin\roslyn\vbc.rsp
+E:\Website\Website\bin\roslyn\VBCSCompiler.exe
+E:\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+E:\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Website\Website\bin\FirebirdSql.Data.FirebirdClient.dll
+E:\Website\Website\bin\MySql.Data.dll
+E:\Website\Website\bin\AppDatabase.pdb
+E:\Website\Website\bin\AppDatabase.xml
+E:\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Website\Website\obj\Debug\Website.csprojAssemblyReference.cache
+E:\Website\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+E:\Website\Website\obj\Debug\Website.csproj.CopyComplete
+E:\Website\Website\obj\Debug\Website.dll
+E:\Website\Website\obj\Debug\Website.pdb

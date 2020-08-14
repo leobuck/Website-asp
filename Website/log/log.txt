@@ -1,0 +1,11 @@
+11/09/2018 20:08:53Falha ao enviar email.
+11/09/2018 20:09:59 - Falha ao enviar email.
+11/09/2018 20:31:17 - Falha ao enviar email.
+11/09/2018 20:45:30 - Referência de objeto não definida para uma instância de um objeto.
+02/10/2018 20:11:35 - Falha ao enviar email.
+02/10/2018 20:20:17 - Falha ao enviar email.
+02/10/2018 20:20:32 - Falha ao enviar email.
+02/10/2018 20:22:56 - Falha ao enviar email.
+02/10/2018 20:23:16 - Falha ao enviar email.
+02/10/2018 20:23:51 - Falha ao enviar email.
+02/10/2018 20:24:03 - Falha ao enviar email.
